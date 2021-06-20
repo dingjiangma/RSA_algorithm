@@ -1,0 +1,4 @@
+  ConsoleApplication1.cpp
+c:\users\zhangwenlong\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\zhangwenlong\desktop\consoleapplication1\consoleapplication1\consoleapplication1.cpp(80): warning C4326: “main”的返回类型应为“int”而非“void”
+  ConsoleApplication1.vcxproj -> C:\Users\zhangwenlong\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
